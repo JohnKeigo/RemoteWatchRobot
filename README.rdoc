@@ -1,4 +1,8 @@
 == README
+## License
+* GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+    * see LICENSE
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
