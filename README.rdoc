@@ -11,6 +11,13 @@ https://www.railstutorial.org/
 
 * Ruby version 1.9.3
 
+This is twitter like web application that I deployed on Heroku.
+I would like to add the function to accept the tweets from robots such as drone and webbots.
+
+https://rasprobot.herokuapp.com/
+
+
+Thanks,
 
 
 
